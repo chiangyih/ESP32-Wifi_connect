@@ -1,6 +1,6 @@
-#include <WiFi.h>
-char ssid[] = "hhvs-iot";       //wifi SSID
-char passwd[] = "Hhvs@54Iot"; //wifi passwd
+#include <WiFi.h
+char ssid[] = "SSID Name";       //請填入欲連線的SSID名稱
+char passwd[] = "WiFi Password"; //請填連線密碼
 
 void setup()
 {
